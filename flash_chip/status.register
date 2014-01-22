@@ -1,0 +1,19 @@
+Using SPI command set v2.
+SPI speed is 8MHz
+Raw bitbang mode version 1
+Raw SPI mode version 1
+The following protocols are supported: SPI.
+Probing for Micron/Numonyx/ST M25PX64, 8192 kB: probe_spi_rdid_generic: id1 0x20, id2 0x7117
+Found Micron/Numonyx/ST flash chip "M25PX64" (8192 kB, SPI) on buspirate_spi.
+Chip status register is 0x00.
+Chip status register: Status Register Write Disable (SRWD, SRP, ...) is not set
+Chip status register: Bit 6 is not set
+Chip status register: Bit 5 is not set
+Chip status register: Block Protect 2 (BP2) is not set
+Chip status register: Block Protect 1 (BP1) is not set
+Chip status register: Block Protect 0 (BP0) is not set
+Chip status register: Write Enable Latch (WEL) is not set
+Chip status register: Write In Progress (WIP/BUSY) is not set
+This chip may contain one-time programmable memory. flashrom cannot read
+and may never be able to write it, hence it may not be able to completely
+clone the contents of this chip (see man page for details).
