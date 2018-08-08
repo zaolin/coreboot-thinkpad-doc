@@ -1,0 +1,9 @@
+system-manufacturer   : LENOVO
+system-product-name   : 2904HHM
+system-version        : ThinkPad T410s
+baseboard-manufacturer: LENOVO
+baseboard-product-name: 2904HHM
+baseboard-version     : Not Available
+bios-vendor           : LENOVO
+bios-version          : 6UET54WW (1.34 )
+bios-release-date     : 09/16/2010
